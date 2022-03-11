@@ -13,8 +13,8 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shashank Spotify Playing" width="350" />](https://open.spotify.com/user/shashanksj)
 - 🔭 I’m currently working on ...
 --->
-![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shashank-sj&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-sj&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=itsshashank&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashank&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
@@ -38,17 +38,17 @@
 
 ### Connect with me:
 
-[<img  align="left" alt="shashank-sj.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shashank-sj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="shashank-sj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shashank-sj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shashank-sj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img  align="left" alt="itsshashank.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="itsshashank | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="itsshashank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="itsshashank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="itsshashank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 
 
-[website]: https://shashank-sj.github.io/
+[website]: https://itsshashank.github.io/
 [twitter]: https://twitter.com/shashank1sj
 [youtube]: https://www.youtube.com/channel/UCd9MyVFnas3ZgynVqYAqwYw?view_as=subscriber
 [instagram]: https://www.instagram.com/its_shashank_sj/
